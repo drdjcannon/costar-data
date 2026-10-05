@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "people": [
   {
    "id": "p_50_cent",
@@ -13555,7 +13555,8 @@
   {
    "id": "p_mark_o_brien",
    "name": "Mark O'Brien",
-   "dailyCandidate": false
+   "dailyCandidate": true,
+   "tier": 3
   },
   {
    "id": "p_mark_osborne",
@@ -29397,7 +29398,6 @@
     "p_rick_moranis",
     "p_mel_brooks",
     "p_john_candy",
-    "p_john_hurt",
     "p_stephen_tobolowsky",
     "p_tony_cox"
    ],
@@ -32349,23 +32349,7 @@
     "p_dean_stockwell",
     "p_richard_e_grant",
     "p_jeremy_piven",
-    "p_gina_gershon",
-    "p_gary_busey",
-    "p_james_coburn",
-    "p_john_cusack",
-    "p_teri_garr",
-    "p_scott_glenn",
-    "p_jeff_goldblum",
-    "p_elliott_gould",
-    "p_david_alan_grier",
-    "p_anjelica_huston",
-    "p_andie_macdowell",
-    "p_malcolm_mcdowell",
-    "p_nick_nolte",
-    "p_burt_reynolds",
-    "p_julia_roberts",
-    "p_susan_sarandon",
-    "p_bruce_willis"
+    "p_gina_gershon"
    ],
    "directors": [
     "p_robert_altman"
@@ -32696,10 +32680,8 @@
     "p_charles_grodin",
     "p_laura_linney",
     "p_bonnie_hunt",
-    "p_oliver_stone",
     "p_stephen_root",
-    "p_gary_ross",
-    "p_arnold_schwarzenegger"
+    "p_gary_ross"
    ],
    "directors": [
     "p_ivan_reitman"
@@ -33662,8 +33644,7 @@
    "year": 1994,
    "cast": [
     "p_alain_chabat",
-    "p_tcheky_karyo",
-    "p_rosanna_arquette"
+    "p_tcheky_karyo"
    ],
    "directors": [
     "p_alain_berberian"
@@ -36014,7 +35995,6 @@
    "year": 1996,
    "cast": [
     "p_wayne_knight",
-    "p_bill_murray",
     "p_dee_bradley_baker",
     "p_danny_devito",
     "p_frank_welker"
@@ -36149,7 +36129,6 @@
     "p_leslie_mann",
     "p_jack_black",
     "p_ben_stiller",
-    "p_eric_roberts",
     "p_janeane_garofalo",
     "p_david_cross",
     "p_owen_wilson",
@@ -37463,8 +37442,7 @@
     "p_william_h_macy",
     "p_david_koechner",
     "p_john_michael_higgins",
-    "p_john_cho",
-    "p_jim_belushi"
+    "p_john_cho"
    ],
    "directors": [
     "p_barry_levinson"
@@ -39085,9 +39063,7 @@
     "p_kevin_durand",
     "p_jeff_garlin",
     "p_jennifer_coolidge",
-    "p_woody_harrelson",
     "p_tim_robbins",
-    "p_rebecca_romijn",
     "p_fred_willard"
    ],
    "directors": [
@@ -42155,7 +42131,6 @@
     "p_seann_william_scott",
     "p_matt_damon",
     "p_tracy_morgan",
-    "p_gus_van_sant",
     "p_mark_hamill",
     "p_diedrich_bader",
     "p_joey_lauren_adams"
@@ -44252,8 +44227,7 @@
     "p_bill_nunn",
     "p_bruce_campbell",
     "p_elizabeth_banks",
-    "p_octavia_spencer",
-    "p_macy_gray"
+    "p_octavia_spencer"
    ],
    "directors": [
     "p_sam_raimi"
@@ -45238,8 +45212,7 @@
     "p_peter_dinklage",
     "p_amy_sedaris",
     "p_andy_richter",
-    "p_jon_favreau",
-    "p_matt_walsh"
+    "p_jon_favreau"
    ],
    "directors": [
     "p_jon_favreau"
@@ -45570,7 +45543,6 @@
     "p_timothy_dalton",
     "p_joan_cusack",
     "p_dick_miller",
-    "p_matthew_lillard",
     "p_ron_perlman",
     "p_frank_welker"
    ],
@@ -45886,10 +45858,7 @@
     "p_leslie_nielsen",
     "p_kevin_hart",
     "p_jeremy_piven",
-    "p_queen_latifah",
-    "p_macy_gray",
-    "p_method_man",
-    "p_rza"
+    "p_queen_latifah"
    ],
    "directors": [
     "p_david_zucker"
@@ -46452,7 +46421,6 @@
     "p_brittany_murphy",
     "p_dakota_fanning",
     "p_marley_shelton",
-    "p_fisher_stevens",
     "p_carmen_electra"
    ],
    "directors": [
@@ -46849,9 +46817,7 @@
     "p_tom_waits",
     "p_cate_blanchett",
     "p_alfred_molina",
-    "p_steve_coogan",
-    "p_rza",
-    "p_bill_murray"
+    "p_steve_coogan"
    ],
    "directors": [
     "p_jim_jarmusch"
@@ -47221,7 +47187,6 @@
     "p_jennifer_lopez",
     "p_stephen_root",
     "p_mike_starr",
-    "p_will_smith",
     "p_jason_lee",
     "p_matt_damon"
    ],
@@ -47477,8 +47442,7 @@
     "p_suzy_eddie_izzard",
     "p_robbie_coltrane",
     "p_cherry_jones",
-    "p_jared_harris",
-    "p_bruce_willis"
+    "p_jared_harris"
    ],
    "directors": [
     "p_steven_soderbergh"
@@ -48464,7 +48428,6 @@
     "p_harvey_keitel",
     "p_danny_devito",
     "p_james_woods",
-    "p_rza",
     "p_arielle_kebbel"
    ],
    "directors": [
@@ -53092,7 +53055,6 @@
     "p_chris_rock",
     "p_kathy_bates",
     "p_barry_levinson",
-    "p_ray_liotta",
     "p_larry_miller",
     "p_rip_torn",
     "p_john_dimaggio"
@@ -53539,7 +53501,6 @@
     "p_elizabeth_banks",
     "p_kevin_spacey",
     "p_dylan_minnette",
-    "p_stephen_baldwin",
     "p_burn_gorman"
    ],
    "directors": [
@@ -54973,8 +54934,7 @@
    "year": 2007,
    "cast": [
     "p_hank_azaria",
-    "p_albert_brooks",
-    "p_tom_hanks"
+    "p_albert_brooks"
    ],
    "directors": [
     "p_david_silverman"
@@ -57241,11 +57201,6 @@
     "p_danny_mcbride",
     "p_steve_coogan",
     "p_bill_hader",
-    "p_tobey_maguire",
-    "p_jon_voight",
-    "p_jennifer_love_hewitt",
-    "p_alicia_silverstone",
-    "p_jason_bateman",
     "p_christine_taylor"
    ],
    "directors": [
@@ -57456,8 +57411,7 @@
     "p_nick_swardson",
     "p_rob_schneider",
     "p_chris_rock",
-    "p_kevin_james",
-    "p_george_takei"
+    "p_kevin_james"
    ],
    "directors": [
     "p_dennis_dugan"
@@ -58300,9 +58254,6 @@
     "p_jason_schwartzman",
     "p_aubrey_plaza",
     "p_rza",
-    "p_paul_reiser",
-    "p_sarah_silverman",
-    "p_ray_romano",
     "p_justin_long"
    ],
    "directors": [
@@ -59992,8 +59943,7 @@
     "p_woody_harrelson",
     "p_emma_stone",
     "p_abigail_breslin",
-    "p_amber_heard",
-    "p_bill_murray"
+    "p_amber_heard"
    ],
    "directors": [
     "p_ruben_fleischer"
@@ -60683,7 +60633,6 @@
     "p_nick_kroll",
     "p_ellie_kemper",
     "p_jake_johnson",
-    "p_tom_felton",
     "p_kristen_bell",
     "p_t_j_miller"
    ],
@@ -60805,7 +60754,6 @@
     "p_bryce_dallas_howard",
     "p_jay_mohr",
     "p_richard_kind",
-    "p_derek_jacobi",
     "p_jenifer_lewis"
    ],
    "directors": [
@@ -62146,10 +62094,8 @@
     "p_dwayne_johnson",
     "p_rob_riggle",
     "p_bobby_cannavale",
-    "p_rosie_perez",
     "p_adam_mckay",
-    "p_ben_schwartz",
-    "p_tracy_morgan"
+    "p_ben_schwartz"
    ],
    "directors": [
     "p_adam_mckay"
@@ -64087,8 +64033,7 @@
     "p_david_koechner",
     "p_jesse_plemons",
     "p_sigourney_weaver",
-    "p_jeffrey_tambor",
-    "p_steven_spielberg"
+    "p_jeffrey_tambor"
    ],
    "directors": [
     "p_greg_mottola"
@@ -64899,12 +64844,7 @@
     "p_ken_jeong",
     "p_sarah_silverman",
     "p_donald_glover",
-    "p_emily_blunt",
-    "p_whoopi_goldberg",
-    "p_selena_gomez",
-    "p_neil_patrick_harris",
-    "p_judd_hirsch",
-    "p_john_krasinski"
+    "p_emily_blunt"
    ],
    "directors": [
     "p_james_bobin"
@@ -66554,8 +66494,7 @@
    "title": "Project X",
    "year": 2012,
    "cast": [
-    "p_thomas_mann",
-    "p_miles_teller"
+    "p_thomas_mann"
    ],
    "directors": [
     "p_nima_nourizadeh"
@@ -67002,8 +66941,7 @@
     "p_giovanni_ribisi",
     "p_patrick_warburton",
     "p_matt_walsh",
-    "p_bill_smitrovich",
-    "p_tom_skerritt"
+    "p_bill_smitrovich"
    ],
    "directors": [
     "p_seth_macfarlane"
@@ -69084,8 +69022,7 @@
     "p_mary_steenburgen",
     "p_romany_malco",
     "p_roger_bart",
-    "p_michael_ealy",
-    "p_50_cent"
+    "p_michael_ealy"
    ],
    "directors": [
     "p_jon_turteltaub"
@@ -69226,7 +69163,6 @@
     "p_elizabeth_banks",
     "p_josh_duhamel",
     "p_common",
-    "p_seth_macfarlane",
     "p_aasif_mandvi",
     "p_emily_alyn_lind"
    ],
@@ -69756,8 +69692,6 @@
    "year": 2013,
    "cast": [
     "p_molly_shannon",
-    "p_lindsay_lohan",
-    "p_charlie_sheen",
     "p_snoop_dogg",
     "p_terry_crews",
     "p_jerry_o_connell"
@@ -70503,8 +70437,7 @@
     "p_kathryn_hahn",
     "p_patton_oswalt",
     "p_adrian_martinez",
-    "p_olafur_darri_olafsson",
-    "p_andy_richter"
+    "p_olafur_darri_olafsson"
    ],
    "directors": [
     "p_ben_stiller"
@@ -70665,16 +70598,7 @@
     "p_jonah_hill",
     "p_seth_rogen",
     "p_jay_baruchel",
-    "p_danny_mcbride",
-    "p_craig_robinson",
-    "p_michael_cera",
-    "p_emma_watson",
-    "p_mindy_kaling",
-    "p_david_krumholtz",
-    "p_christopher_mintz_plasse",
-    "p_paul_rudd",
-    "p_channing_tatum",
-    "p_kevin_hart"
+    "p_danny_mcbride"
    ],
    "directors": [
     "p_seth_rogen",
@@ -72215,7 +72139,6 @@
     "p_tom_hiddleston",
     "p_salma_hayek_pinault",
     "p_ray_liotta",
-    "p_danny_trejo",
     "p_stanley_tucci",
     "p_jemaine_clement",
     "p_zach_galifianakis",
@@ -72227,7 +72150,6 @@
     "p_miranda_richardson",
     "p_saoirse_ronan",
     "p_til_schweiger",
-    "p_christoph_waltz",
     "p_mackenzie_crook",
     "p_rob_corddry"
    ],
@@ -74463,21 +74385,10 @@
     "p_haley_joel_osment",
     "p_kid_cudi",
     "p_billy_bob_thornton",
-    "p_david_arquette",
-    "p_gary_busey",
-    "p_jon_favreau",
-    "p_liam_neeson",
-    "p_kelsey_grammer",
     "p_nora_dunn",
-    "p_mark_wahlberg",
-    "p_david_spade",
-    "p_jessica_alba",
-    "p_common",
-    "p_armie_hammer",
     "p_judy_greer",
     "p_richard_schiff",
-    "p_martin_landau",
-    "p_george_takei"
+    "p_martin_landau"
    ],
    "directors": [
     "p_doug_ellin"
@@ -75277,8 +75188,7 @@
     "p_connie_britton",
     "p_nick_offerman",
     "p_molly_shannon",
-    "p_jon_bernthal",
-    "p_hugh_jackman"
+    "p_jon_bernthal"
    ],
    "directors": [
     "p_alfonso_gomez_rejon"
@@ -75838,8 +75748,7 @@
     "p_morena_baccarin",
     "p_sam_richardson",
     "p_richard_brake",
-    "p_will_yun_lee",
-    "p_50_cent"
+    "p_will_yun_lee"
    ],
    "directors": [
     "p_paul_feig"
@@ -76006,8 +75915,6 @@
     "p_ron_canada",
     "p_liam_neeson",
     "p_dennis_haysbert",
-    "p_kate_mckinnon",
-    "p_bobby_moynihan",
     "p_tara_strong"
    ],
    "directors": [
@@ -76621,7 +76528,6 @@
     "p_randall_park",
     "p_method_man",
     "p_tim_meadows",
-    "p_matthew_broderick",
     "p_daniel_radcliffe",
     "p_marisa_tomei",
     "p_pete_davidson"
@@ -77626,8 +77532,7 @@
     "p_willem_dafoe",
     "p_brad_garrett",
     "p_allison_janney",
-    "p_stephen_root",
-    "p_sigourney_weaver"
+    "p_stephen_root"
    ],
    "directors": [
     "p_andrew_stanton"
@@ -78687,7 +78592,6 @@
     "p_adam_driver",
     "p_golshifteh_farahani",
     "p_barry_shabaka_henley",
-    "p_method_man",
     "p_sterling_jerins"
    ],
    "directors": [
@@ -78764,13 +78668,9 @@
     "p_maya_rudolph",
     "p_joan_cusack",
     "p_imogen_poots",
-    "p_50_cent",
     "p_will_arnett",
     "p_bill_hader",
-    "p_rza",
-    "p_martin_sheen",
-    "p_will_forte",
-    "p_snoop_dogg"
+    "p_will_forte"
    ],
    "directors": [
     "p_akiva_schaffer",
@@ -79829,16 +79729,13 @@
     "p_milla_jovovich",
     "p_christine_taylor",
     "p_justin_theroux",
-    "p_billy_zane",
     "p_benedict_cumberbatch",
     "p_jerry_stiller",
     "p_olivia_munn",
-    "p_kiefer_sutherland",
     "p_john_malkovich",
     "p_alexander_skarsgard",
     "p_christina_hendricks",
-    "p_olafur_darri_olafsson",
-    "p_macaulay_culkin"
+    "p_olafur_darri_olafsson"
    ],
    "directors": [
     "p_ben_stiller"
@@ -80817,8 +80714,6 @@
     "p_tiffany_haddish",
     "p_larenz_tate",
     "p_mike_colter",
-    "p_morris_chestnut",
-    "p_common",
     "p_mike_epps"
    ],
    "directors": [
@@ -81685,8 +81580,7 @@
    "cast": [
     "p_noah_centineo",
     "p_molly_ringwald",
-    "p_rosanna_arquette",
-    "p_keanu_reeves"
+    "p_rosanna_arquette"
    ],
    "directors": [
     "p_alex_israel"
@@ -82145,13 +82039,7 @@
     "p_sharon_stone",
     "p_bob_odenkirk",
     "p_randall_park",
-    "p_zoey_deutch",
-    "p_ike_barinholtz",
-    "p_keegan_michael_key",
-    "p_adam_scott",
-    "p_danny_mcbride",
-    "p_kristen_bell",
-    "p_lizzy_caplan"
+    "p_zoey_deutch"
    ],
    "directors": [
     "p_james_franco"
@@ -82444,7 +82332,6 @@
     "p_candice_bergen",
     "p_adam_driver",
     "p_judd_hirsch",
-    "p_sigourney_weaver",
     "p_josh_hamilton",
     "p_greta_gerwig"
    ],
@@ -83046,7 +82933,6 @@
     "p_rafi_gavron",
     "p_anthony_ramos",
     "p_dave_chappelle",
-    "p_alec_baldwin",
     "p_ron_rifkin",
     "p_barry_shabaka_henley"
    ],
@@ -83929,9 +83815,7 @@
     "p_neal_mcdonough",
     "p_sam_richardson",
     "p_andrew_bachelor",
-    "p_fred_armisen",
-    "p_jillian_bell",
-    "p_joel_mchale"
+    "p_jillian_bell"
    ],
    "directors": [
     "p_kyle_newacheck"
@@ -84061,8 +83945,7 @@
     "p_rebecca_hall",
     "p_kelly_macdonald",
     "p_ralph_fiennes",
-    "p_noah_jupe",
-    "p_billy_zane"
+    "p_noah_jupe"
    ],
    "directors": [
     "p_etan_cohen"
@@ -84680,10 +84563,7 @@
     "p_dana_ivey",
     "p_elliott_gould",
     "p_griffin_dunne",
-    "p_dakota_fanning",
-    "p_common",
-    "p_jaime_king",
-    "p_olivia_munn"
+    "p_dakota_fanning"
    ],
    "directors": [
     "p_gary_ross"
@@ -86319,7 +86199,6 @@
    "year": 2019,
    "cast": [
     "p_randall_park",
-    "p_keanu_reeves",
     "p_daniel_dae_kim",
     "p_karan_soni"
    ],
@@ -86502,24 +86381,7 @@
    "year": 2019,
    "cast": [
     "p_zach_galifianakis",
-    "p_will_ferrell",
-    "p_matthew_mcconaughey",
-    "p_peter_dinklage",
-    "p_jon_hamm",
-    "p_john_legend",
-    "p_benedict_cumberbatch",
-    "p_brie_larson",
-    "p_keanu_reeves",
-    "p_rashida_jones",
-    "p_hailee_steinfeld",
-    "p_john_cho",
-    "p_adam_scott",
-    "p_tiffany_haddish",
-    "p_paul_rudd",
-    "p_jason_schwartzman",
-    "p_tessa_thompson",
-    "p_awkwafina",
-    "p_gal_gadot"
+    "p_will_ferrell"
    ],
    "directors": [
     "p_scott_aukerman"
@@ -87364,8 +87226,7 @@
     "p_alexandra_shipp",
     "p_rose_byrne",
     "p_michael_pena",
-    "p_wanda_sykes",
-    "p_kid_cudi"
+    "p_wanda_sykes"
    ],
    "directors": [
     "p_scott_moore",
@@ -88533,8 +88394,7 @@
     "p_cobie_smulders",
     "p_ike_barinholtz",
     "p_ralph_fiennes",
-    "p_will_forte",
-    "p_bruce_willis"
+    "p_will_forte"
    ],
    "directors": [
     "p_mike_mitchell"
@@ -88960,8 +88820,7 @@
    "year": 2019,
    "cast": [
     "p_lily_james",
-    "p_kate_mckinnon",
-    "p_james_corden"
+    "p_kate_mckinnon"
    ],
    "directors": [
     "p_danny_boyle"
@@ -88978,8 +88837,7 @@
     "p_abigail_breslin",
     "p_zoey_deutch",
     "p_rosario_dawson",
-    "p_luke_wilson",
-    "p_bill_murray"
+    "p_luke_wilson"
    ],
    "directors": [
     "p_ruben_fleischer"
@@ -89141,7 +88999,6 @@
     "p_samara_weaving",
     "p_william_sadler",
     "p_jayma_mays",
-    "p_kid_cudi",
     "p_holland_taylor",
     "p_jillian_bell"
    ],
@@ -91018,9 +90875,7 @@
     "p_tracy_morgan",
     "p_kiki_layne",
     "p_wesley_snipes",
-    "p_james_earl_jones",
-    "p_morgan_freeman",
-    "p_john_legend"
+    "p_james_earl_jones"
    ],
    "directors": [
     "p_craig_brewer"
@@ -91229,8 +91084,7 @@
     "p_hugh_jackman",
     "p_dwayne_johnson",
     "p_tina_fey",
-    "p_john_krasinski",
-    "p_chris_evans"
+    "p_john_krasinski"
    ],
    "directors": [
     "p_shawn_levy"
@@ -92033,7 +91887,6 @@
     "p_sarah_silverman",
     "p_steven_yeun",
     "p_lil_rel_howery",
-    "p_michael_b_jordan",
     "p_rosario_dawson"
    ],
    "directors": [
@@ -93275,8 +93128,7 @@
     "p_corey_burton",
     "p_jim_cummings",
     "p_jeff_bennett",
-    "p_david_tennant",
-    "p_paul_rudd"
+    "p_david_tennant"
    ],
    "directors": [
     "p_akiva_schaffer"
@@ -93626,9 +93478,7 @@
     "p_jessica_henwick",
     "p_ethan_hawke",
     "p_hugh_grant",
-    "p_natasha_lyonne",
-    "p_joseph_gordon_levitt",
-    "p_angela_lansbury"
+    "p_joseph_gordon_levitt"
    ],
    "directors": [
     "p_rian_johnson"
@@ -94837,8 +94687,7 @@
    "year": 2022,
    "cast": [
     "p_cate_blanchett",
-    "p_mark_strong",
-    "p_alec_baldwin"
+    "p_mark_strong"
    ],
    "directors": [
     "p_todd_field"
@@ -97835,8 +97684,7 @@
    "year": 2024,
    "cast": [
     "p_rosemarie_dewitt",
-    "p_kyle_gallner",
-    "p_drew_barrymore"
+    "p_kyle_gallner"
    ],
    "directors": [
     "p_parker_finn"
@@ -98395,8 +98243,7 @@
     "p_jack_black",
     "p_paul_rudd",
     "p_steve_zahn",
-    "p_thandiwe_newton",
-    "p_ice_cube"
+    "p_thandiwe_newton"
    ],
    "directors": [
     "p_tom_gormican"
@@ -99433,7 +99280,6 @@
     "p_danny_huston",
     "p_cch_pounder",
     "p_kevin_durand",
-    "p_dave_bautista",
     "p_andy_samberg"
    ],
    "directors": [
@@ -100027,8 +99873,7 @@
     "p_jesse_eisenberg",
     "p_jeff_bridges",
     "p_zoey_deutch",
-    "p_bobby_moynihan",
-    "p_george_lucas"
+    "p_bobby_moynihan"
    ],
    "directors": [
     "p_pierre_coffin"
@@ -100154,7 +99999,6 @@
     "p_anna_faris",
     "p_regina_hall",
     "p_chris_elliott",
-    "p_anthony_anderson",
     "p_carmen_electra"
    ],
    "directors": [
