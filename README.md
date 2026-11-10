@@ -46,3 +46,11 @@ The generator lives in the CoStar app repository, not here. This repo is a publi
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 Film and cast data originates from [TMDB](https://www.themoviedb.org).
+
+## headshots/
+
+Performer portraits for CoStar, cropped and resized from Wikimedia Commons. Each image keeps its
+own licence (public domain, CC0, CC BY or CC BY-SA). The author, licence, licence link and
+source page for every file are in `headshots/headshots.json`. Crops of CC BY-SA images are
+shared under the same licence as their original. To request a removal, open an issue on this
+repository.
